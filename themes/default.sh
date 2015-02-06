@@ -31,7 +31,7 @@ if [ -z $TMUX_POWERLINE_LEFT_STATUS_SEGMENTS ]; then
 		#"wan_ip 24 255" \
 		#"pwd 89 211" \
     "pwd 89 255" \
-		"vcs_branch 29 88" \
+		"vcs_branch 29 255" \
 		"vcs_compare 60 255" \
 		"vcs_staged 64 255" \
 		"vcs_modified 9 255" \
